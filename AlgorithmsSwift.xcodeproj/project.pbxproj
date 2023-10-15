@@ -393,7 +393,6 @@
 			isa = PBXGroup;
 			children = (
 				7376FE4D2ADBE75D00EB31E8 /* AlgorithmsSwift.entitlements */,
-				737971B4239A146800D616FF /* main.swift */,
 				7963AD2B23998B930065E07B /* ArraysAndStrings */,
 				7963AD2C239996F70065E07B /* LinkedList */,
 				7963AD2D239996FF0065E07B /* TreesAndGraphs */,
@@ -401,8 +400,9 @@
 				7963AD2E2399974C0065E07B /* BackTracking */,
 				7963AD2F239997540065E07B /* SortingAndSearching */,
 				7963AD302399975F0065E07B /* DynamicProgramming */,
-				7963AD31239997680065E07B /* Design */,
 				7963AD9A23999C100065E07B /* Others */,
+				7963AD31239997680065E07B /* Design */,
+				737971B4239A146800D616FF /* main.swift */,
 			);
 			path = AlgorithmsSwift;
 			sourceTree = "<group>";
